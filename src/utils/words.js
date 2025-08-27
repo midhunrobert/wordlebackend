@@ -27,7 +27,8 @@ export const SOLUTIONS = [
 "flame","flash","fleet","flesh","float","flock","flour","fluid","focus","force",
 "forge","forty","forum","frame","fraud","fresh","front","frost","fruit","funny",
 "giant","glade","glare","glass","glide","globe","glory","gloss","grace","grade",
-"grand","grant","grape","graph","grass","grave","great","green","grief","grind"
+"grand","grant","grape","graph","grass","grave","great","green","grief","grind",
+    "facts"
 
 
   ];
